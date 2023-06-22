@@ -11,3 +11,4 @@
 | [Python/JavaScript](https://github.com/python-project-templates/js) | | Python with self-contained JS frontend |
 | [Python/JS/Rust](https://github.com/python-project-templates/rust-js-wasm) | [![Build Status](https://github.com/python-project-templates/rust-js-wasm/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/python-project-templates/rust-js-wasm/actions?query=workflow%3A%22Build+Status%22) | Rust with Python binding (`PyO3`) and WebAssembly binding (to JS) |
 
+Don't see a template you want? Reach out via [discussions](https://github.com/python-project-templates/.github/discussions)
