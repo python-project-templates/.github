@@ -9,5 +9,5 @@
 | [Python/Rust](https://github.com/python-project-templates/rust) | [![Build Status](https://github.com/python-project-templates/rust/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/python-project-templates/rust/actions?query=workflow%3A%22Build+Status%22) | Python with rust binding via `PyO3` |
 | [Python/Jupyter](https://github.com/python-project-templates/jupyter) | [![Build Status](https://github.com/python-project-templates/jupyter/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/python-project-templates/jupyter/actions?query=workflow%3A%22Build+Status%22) | Python with Jupyter extension (JS) |
 | [Python/JavaScript](https://github.com/python-project-templates/js) | | Python with self-contained JS frontend |
-| [Python/JS/Rust](https://github.com/python-project-templates/rust-js-wasm) | | Rust with Python binding (`PyO3`) and WebAssembly binding (to JS) |
+| [Python/JS/Rust](https://github.com/python-project-templates/rust-js-wasm) | [![Build Status](https://github.com/python-project-templates/rust-js-wasm/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/python-project-templates/rust-js-wasm/actions?query=workflow%3A%22Build+Status%22) | Rust with Python binding (`PyO3`) and WebAssembly binding (to JS) |
 
