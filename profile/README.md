@@ -1,6 +1,6 @@
 ## Python Project Templates
 
-[![License](https://img.shields.io/badge/license-Apache--2.0-green)](https://github.com/python-project-templates)
+[![License](https://img.shields.io/badge/license-Apache--2.0-brightgreen)](https://github.com/python-project-templates)
 
 This organization contains repos with examples of integrating Python with various tooling (CI/CD, linting, testing etc) and bindings/other language integration. 
 
