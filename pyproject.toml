@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend="hatchling.build"
+
+[project]
+name = "python-project-templates"
+authors = [{name = "the python-project-template authors", email = "t.paine154@gmail.com"}]
+description = "Python Project Templates"
+readme = "README.md"
+license = { text = "Apache-2.0" }
+version = "0.1.0"
+requires-python = ">=3.9"
+keywords = []
+classifiers = []
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/python-project-templates"
+Homepage = "https://python-templates.dev/"
+
+[project.optional-dependencies]
+develop = []
+
+[tool.yardang]
+title = "Python Project Templates"
+root = "profile/README.md"
+cname = "python-templates.dev"
+pages = []
+use-autoapi = false
