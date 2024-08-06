@@ -4,7 +4,7 @@ build-backend="hatchling.build"
 
 [project]
 name = "python-project-templates"
-authors = [{name = "the python-project-template authors", email = "t.paine154@gmail.com"}]
+authors = [{name = "the python-project-template authors", email = "3105306+timkpaine@users.noreply.github.com"}]
 description = "Python Project Templates"
 readme = "README.md"
 license = { text = "Apache-2.0" }
