@@ -17,8 +17,9 @@ This organization contains repos with examples of integrating Python with variou
 | [Python/JS/Rust](https://github.com/python-project-templates/rust-js-wasm) | [![Build Status](https://github.com/python-project-templates/rust-js-wasm/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/python-project-templates/rust-js-wasm/actions?query=workflow%3A%22Build+Status%22) | Rust with Python binding (`PyO3`) and WebAssembly binding (to JS) |
 
 ## Other Templates
+
 | Type | Build | Description |
 |:-----|:-----|:------|
-|      |      |       |
+| Coming soon     |      |       |
 
 Don't see a template you want? Reach out via [discussions](https://github.com/python-project-templates/.github/discussions)
