@@ -5,7 +5,7 @@
 
 This organization contains repos with examples of integrating Python with various tooling (CI/CD, linting, testing etc) and bindings/other language integration.
 
-## Python Templates
+### Python Templates
 
 | Type | Build | Description |
 |:-----|:-----|:------|
@@ -16,7 +16,7 @@ This organization contains repos with examples of integrating Python with variou
 | [Python/JavaScript](https://github.com/python-project-templates/js) | | Python with self-contained JS frontend |
 | [Python/JS/Rust](https://github.com/python-project-templates/rust-js-wasm) | [![Build Status](https://github.com/python-project-templates/rust-js-wasm/workflows/Build%20Status/badge.svg?branch=main)](https://github.com/python-project-templates/rust-js-wasm/actions?query=workflow%3A%22Build+Status%22) | Rust with Python binding (`PyO3`) and WebAssembly binding (to JS) |
 
-## Other Templates
+### Other Templates
 
 | Type | Build | Description |
 |:-----|:-----|:------|
