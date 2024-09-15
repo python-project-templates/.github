@@ -8,6 +8,7 @@ hidden: true
 
 
 ```
+
 ## Python Project Templates
 
 [![GitHub](https://img.shields.io/badge/repo-github-181717?logo=github&logoColor=white)](https://github.com/python-project-templates)
