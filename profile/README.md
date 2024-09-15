@@ -5,6 +5,11 @@
 
 This organization contains repos with examples of integrating Python with various tooling (CI/CD, linting, testing etc) and bindings/other language integration.
 
+```bash
+pip install copier
+copier copy https://github.com/python-project-templates/base.git path/to/new/project
+```
+
 ### Python Templates
 
 | Type | Build | Description |
