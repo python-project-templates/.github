@@ -39,4 +39,4 @@ copier copy https://github.com/python-project-templates/base.git path/to/new/pro
 |:-----|:-----|:------|
 | Coming soon     |      |       |
 
-Don't see a template you want? Reach out via [discussions](https://github.com/python-project-templates/.github/discussions)
+Don't see a template you want? Reach out via [discussions](https://github.com/python-project-templates/base/discussions)
