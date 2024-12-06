@@ -24,6 +24,8 @@ copier copy https://github.com/python-project-templates/base.git path/to/new/pro
 
 ### Python Templates
 
+[![Base Template](https://img.shields.io/badge/base-template-blue)](https://github.com/python-project-templates/base)
+
 | Type | Build | Description |
 |:-----|:-----|:------|
 | [Python](https://github.com/python-project-templates/python-template) | [![Build Status](https://github.com/python-project-templates/python-template/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template/actions/workflows/build.yml) | Pure Python |
