@@ -30,4 +30,11 @@ copier copy https://github.com/python-project-templates/base.git path/to/new/pro
 |:-----|:-----|:------|
 | Coming soon     |      |       |
 
+### Other Tools
+
+| Name | Description |
+|:-----|:------|
+| [yardang](https://yardang.python-templates.dev) | yardang is a Python library for generating Sphinx documentation |
+| [hatch-cpp](https://github.com/python-project-templates/hatch-cpp) | `hatch-cpp` is a [hatch](https://hatch.pypa.io/latest/) plugin for C++ |
+
 Don't see a template you want? Reach out via [discussions](https://github.com/python-project-templates/base/discussions)
