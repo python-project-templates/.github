@@ -23,12 +23,13 @@ copier copy https://github.com/python-project-templates/base.git path/to/new/pro
 | [Python/JavaScript](https://github.com/python-project-templates/python-template-js)      | [![Build Status](https://github.com/python-project-templates/python-template-js/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-js/actions/workflows/build.yaml)                 | Python with self-contained JS frontend                            |
 | [Python/JS/Rust](https://github.com/python-project-templates/python-template-rustjswasm) | [![Build Status](https://github.com/python-project-templates/python-template-rustjswasm/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-rustjswasm)                              | Rust with Python binding (`PyO3`) and WebAssembly binding (to JS) |
 | [Python/JS/C++](https://github.com/python-project-templates/python-template-cppjswasm) | [![Build Status](https://github.com/python-project-templates/python-template-cppjswasm/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-cppjswasm)                               | C++ with Python binding (`pybind11`) and WebAssembly binding (to JS) |
-| [Python/Zig](https://github.com/python-project-templates/python-template-zig)            | [![Build Status](https://github.com/python-project-templates/python-template-zig/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-zig/actions?query=workflow%3A%22Build+Status%22) | Python with zig binding via `ziggy-pydust`                        |
 
 ### Other Templates
 
 | Type        | Build | Description |
 | :---------- | :---- | :---------- |
+| [Python/Go](https://github.com/python-project-templates/python-template-go)            | [![Build Status](https://github.com/python-project-templates/python-template-go/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-go/actions?query=workflow%3A%22Build+Status%22) | Python with Go binding via C API                        |
+| [Python/Zig](https://github.com/python-project-templates/python-template-zig)            | [![Build Status](https://github.com/python-project-templates/python-template-zig/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-zig/actions?query=workflow%3A%22Build+Status%22) | Python with Zig binding via `ziggy-pydust`                        |
 | Coming soon |       |             |
 
 ### Other Tools
