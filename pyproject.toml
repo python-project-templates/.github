@@ -23,7 +23,8 @@ develop = []
 
 [tool.yardang]
 title = "Python Project Templates"
-root = "profile/README.md"
+root = "index.md"
 cname = "python-templates.dev"
+exclude-patterns = ["profile/README.md"]
 pages = []
 use-autoapi = false
