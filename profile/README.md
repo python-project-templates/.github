@@ -1,13 +1,15 @@
-## Python Project Templates
+# Python Project Templates
 
 This organization contains repos with examples of integrating Python with various tooling (CI/CD, linting, testing etc) and bindings/other language integration.
+
+Reusable GitHub Actions and Apps supporting these projects are maintained by [Extension Actions](https://actions.python-templates.dev/) ([GitHub](https://github.com/actions-ext)).
 
 ```bash
 pip install copier
 copier copy https://github.com/python-project-templates/base.git path/to/new/project
 ```
 
-### Python Templates
+## Python Templates
 
 [![Base Template](https://img.shields.io/badge/template-base-blue)](https://github.com/python-project-templates/base)
 [![GitHub](https://img.shields.io/badge/repo-github-181717?logo=github&logoColor=white)](https://github.com/python-project-templates)
@@ -24,7 +26,7 @@ copier copy https://github.com/python-project-templates/base.git path/to/new/pro
 | [Python/JS/Rust](https://github.com/python-project-templates/python-template-rustjswasm) | [![Build Status](https://github.com/python-project-templates/python-template-rustjswasm/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-rustjswasm)                              | Rust with Python binding (`PyO3`) and WebAssembly binding (to JS) |
 | [Python/JS/C++](https://github.com/python-project-templates/python-template-cppjswasm) | [![Build Status](https://github.com/python-project-templates/python-template-cppjswasm/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-cppjswasm)                               | C++ with Python binding (`pybind11`) and WebAssembly binding (to JS) |
 
-### Other Templates
+## Other Templates
 
 | Type        | Build | Description |
 | :---------- | :---- | :---------- |
@@ -32,17 +34,17 @@ copier copy https://github.com/python-project-templates/base.git path/to/new/pro
 | [Python/Zig](https://github.com/python-project-templates/python-template-zig)            | [![Build Status](https://github.com/python-project-templates/python-template-zig/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-zig/actions?query=workflow%3A%22Build+Status%22) | Python with Zig binding via `ziggy-pydust`                        |
 | Coming soon |       |             |
 
-### Other Tools
+## Other Tools
 
 | Name                                                                   | Version                                                                                            | Description                                                                                                                                     |
 | :--------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
 | [yardang](https://yardang.python-templates.dev)                        | [![PyPI](https://img.shields.io/pypi/v/yardang.svg)](https://pypi.python.org/pypi/yardang)         | yardang is a Python library for generating Sphinx documentation                                                                                 |
-| [check-dist](https://github.com/python-project-templates/check-dist)   | [![PyPI](https://img.shields.io/pypi/v/yardang.svg)](https://pypi.python.org/pypi/check-dist)      | check-dist is a Python library for sanity-checking source and wheel distribution included files                                                 |
+| [check-dist](https://github.com/python-project-templates/check-dist)   | [![PyPI](https://img.shields.io/pypi/v/check-dist.svg)](https://pypi.python.org/pypi/check-dist)   | check-dist is a Python library for sanity-checking source and wheel distribution included files                                                 |
 | [hatch-build](https://github.com/python-project-templates/hatch-build) | [![PyPI](https://img.shields.io/pypi/v/hatch-build.svg)](https://pypi.python.org/pypi/hatch-build) | A minimal CLI wrapper around [hatchling build](https://hatch.pypa.io/latest/)                                                                   |
 | [hatch-cpp](https://github.com/python-project-templates/hatch-cpp)     | [![PyPI](https://img.shields.io/pypi/v/hatch-cpp.svg)](https://pypi.python.org/pypi/hatch-cpp)     | `hatch-cpp` is a [hatch](https://hatch.pypa.io/latest/) plugin for C++                                                                          |
 | [hatch-js](https://github.com/python-project-templates/hatch-js)       | [![PyPI](https://img.shields.io/pypi/v/hatch-js.svg)](https://pypi.python.org/pypi/hatch-js)       | `hatch-js` is a [hatch](https://hatch.pypa.io/latest/) plugin for JavaScript                                                                    |
 | [hatch-rs](https://github.com/python-project-templates/hatch-rs)       | [![PyPI](https://img.shields.io/pypi/v/hatch-rs.svg)](https://pypi.python.org/pypi/hatch-rs)       | `hatch-rs` is a [hatch](https://hatch.pypa.io/latest/) plugin for Rust                                                                          |
-| [hatch-go](https://github.com/python-project-templates/hatch-go)       | [![PyPI](https://img.shields.io/pypi/v/hatch-zig.svg)](https://pypi.python.org/pypi/hatch-go)      | `hatch-go` is a [hatch](https://hatch.pypa.io/latest/) plugin for Go                                                                            |
+| [hatch-go](https://github.com/python-project-templates/hatch-go)       | [![PyPI](https://img.shields.io/pypi/v/hatch-go.svg)](https://pypi.python.org/pypi/hatch-go)       | `hatch-go` is a [hatch](https://hatch.pypa.io/latest/) plugin for Go                                                                            |
 | [hatch-zig](https://github.com/python-project-templates/hatch-zig)     | [![PyPI](https://img.shields.io/pypi/v/hatch-zig.svg)](https://pypi.python.org/pypi/hatch-zig)     | `hatch-zig` is a [hatch](https://hatch.pypa.io/latest/) plugin for Zig                                                                          |
 | [hatch-multi](https://github.com/python-project-templates/hatch-multi) | [![PyPI](https://img.shields.io/pypi/v/hatch-multi.svg)](https://pypi.python.org/pypi/hatch-multi) | `hatch-multi` is a [hatch](https://hatch.pypa.io/latest/) plugin to create multiple discrete <br/> packages from optional-dependencies (extras) |
 
