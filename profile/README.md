@@ -34,6 +34,15 @@ copier copy https://github.com/python-project-templates/base.git path/to/new/pro
 | [Python/Zig](https://github.com/python-project-templates/python-template-zig)            | [![Build Status](https://github.com/python-project-templates/python-template-zig/actions/workflows/build.yml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/python-template-zig/actions?query=workflow%3A%22Build+Status%22) | Python with Zig binding via `ziggy-pydust`                        |
 | Coming soon |       |             |
 
+### JavaScript Templates
+
+| Type | Build | Description |
+| :--- | :---- | :---------- |
+| [Svelte UI Toolkit](https://github.com/python-project-templates/javascript-template-uitk-svelte) | [![Build Status](https://github.com/python-project-templates/javascript-template-uitk-svelte/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/javascript-template-uitk-svelte/actions/workflows/build.yaml) | Svelte package with shared design tokens, components, and a showcase |
+| [Lit + Web Awesome UI Toolkit](https://github.com/python-project-templates/javascript-template-uitk-webawesome) | [![Build Status](https://github.com/python-project-templates/javascript-template-uitk-webawesome/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/javascript-template-uitk-webawesome/actions/workflows/build.yaml) | Lit custom elements with Web Awesome, shared design tokens, and a showcase |
+| [SvelteKit Site](https://github.com/python-project-templates/javascript-template-site-sveltekit) | [![Build Status](https://github.com/python-project-templates/javascript-template-site-sveltekit/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/javascript-template-site-sveltekit/actions/workflows/build.yaml) | SvelteKit site with static or Node deployment |
+| [Web Awesome Site](https://github.com/python-project-templates/javascript-template-site-webawesome) | [![Build Status](https://github.com/python-project-templates/javascript-template-site-webawesome/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/python-project-templates/javascript-template-site-webawesome/actions/workflows/build.yaml) | Vite and TypeScript site using Web Awesome components |
+
 ## Other Tools
 
 | Name                                                                   | Version                                                                                            | Description                                                                                                                                     |

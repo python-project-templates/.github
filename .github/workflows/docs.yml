@@ -34,7 +34,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install Yardang
-        run: pip install yardang
+        run: uv pip install yardang[themes]
 
       - name: Build Pages
         run: yardang build
