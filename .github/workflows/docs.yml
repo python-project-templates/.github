@@ -29,9 +29,9 @@ jobs:
           persist-credentials: false
 
       - name: Setup Python
-        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97  # v7.0.0
+        uses: actions-ext/python/setup@6e1b91a408ea89f49bc8aff8724f83826f7b5446
         with:
-          python-version: "3.11"
+          version: "3.11"
 
       - name: Install Yardang
         run: uv pip install yardang[themes]
